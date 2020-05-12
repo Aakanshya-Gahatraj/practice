@@ -73,6 +73,8 @@ public class May4_cw {
                 System.out.println("Min data value is:\t" + arr[0] + "\nMax data value is:\t" + arr[count - 1]);
                 System.out.println("Count above avg is:\t" + above + "\nCount below avg is:\t" + below);
                 System.out.println("Maximum elements:\t" + maxel);
+                sc.close();
+                input.close();
 
             } catch (Exception e) {
                 System.out.println(e.getMessage());
