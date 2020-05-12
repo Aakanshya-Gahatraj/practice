@@ -43,7 +43,9 @@ public class Student {
             //Display
             System.out.println("StudentId  Math  Science  English  AverageMarks");
             for(int j=0;j<count;j++){
-                System.out.println(Stid[j]+"\t\t"+Math[j]+"\t\t"+Sci[j]+"\t\t"+Eng[j]+"\t\t"+dec.format(Avg[j]));}
+                System.out.println(Stid[j]+"\t\t"+Math[j]+"\t\t"+Sci[j]+"\t\t"+Eng[j]+"\t\t"+dec.format(Avg[j])); }
+            sc.close();
+            in.close();
         }catch(Exception e){
             System.out.println(e.getMessage());
         }
