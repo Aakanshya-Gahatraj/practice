@@ -62,6 +62,8 @@ public class May4_cw {
             int maxel=70;
             if (cnt==2) maxel=280;
             System.out.println("Maximum elements:\t"+maxel+"\n");
+            sc.close();
+            input.close();
 
 
         }catch(Exception e){
