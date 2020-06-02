@@ -1,3 +1,4 @@
+//connects to Inventory.txt and Sales.txt
 package com.company;
 
 import java.util.Scanner;
