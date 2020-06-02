@@ -1,6 +1,0 @@
-DATE,PID,PNAME,INSTOCK,PRICE,
-2020/02/05,mun12,munch,50,15,
-2020/02/10,fla05,cornflakes,70,250,
-2020/02/15,pep11,pepsi,100,200,
-2020/02/01,cake1,cake,50,150,
-2020/02/01,mmw,vvvv,55,100
